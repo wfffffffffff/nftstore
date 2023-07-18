@@ -1,0 +1,24 @@
+{
+    "name": "The collision of West Coast art #15",
+    "image": "https://sensational-quokka-128c67.netlify.app/images/15.png",
+    "description": "This is a very interesting animal!",
+    "id": "lk7po6wp",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "2"
+        },
+        {
+            "type": "杰瑞",
+            "value": "杰1瑞"
+        },
+        {
+            "type": "牛牛",
+            "value": "_c80078a5-e215-4f65-8e51-8cb609c9cbac-恢复的"
+        },
+        {
+            "type": "飞机",
+            "value": "小灰飞"
+        }
+    ]
+}
