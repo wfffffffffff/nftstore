@@ -2,23 +2,27 @@
     "name": "The collision of West Coast art #12",
     "image": "https://sensational-quokka-128c67.netlify.app/images/12.png",
     "description": "This is a very interesting animal!",
-    "id": "lk7p6t5h",
+    "id": "lk7okd3y",
     "attributes": [
         {
             "type": "背景",
-            "value": "8"
+            "value": "1"
+        },
+        {
+            "type": "老鼠人",
+            "value": "huli"
         },
         {
             "type": "牛牛",
-            "value": "老鼠来咯·"
+            "value": "_c80078a5-e215-4f65-8e51-8cb609c9cbac"
         },
         {
-            "type": "猫咪",
-            "value": "_c80078a5-e215-4f65-8e51-8cb609c9cbac-恢复的"
+            "type": "帽子",
+            "value": "_c80078a5-e215-4f65-8e51-8cb609c9cbac"
         },
         {
-            "type": "翅膀",
-            "value": "鼠鼠人要飞"
+            "type": "手表",
+            "value": "金灿灿"
         }
     ]
 }
